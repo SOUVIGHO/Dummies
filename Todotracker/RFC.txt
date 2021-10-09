@@ -1,0 +1,39 @@
+RFC:
+
+Implementation of a web based todo tracker to track progress and ensure continuity
+
+#Problem
+
+Current notepad based tracker is not user friendly and timexonsuming
+It does not provide an aggregate of activities and show ahcived missed target statistics.
+It also does not show the time window utilized to accomplish a particular task.
+
+#Duration
+
+10-Oct-2021
+
+#Current state
+
+Draft
+
+#Proposer
+
+*Self
+
+#Detail
+
+Current notepad based tracker is not user friendly and timexonsuming
+It does not provide an aggregate of activities and show ahcived missed target statistics.
+It also does not show the time window utilized to accomplish a particular task.
+
+#Proposal
+
+A web based ui which will show current date with 24 hours time window broken in 24 parts
+every window will have a strechable container to streach and update the task done.
+It shows a dropdown of type of task , shows accomplished rate for the day
+gives a setting to create, edit, delete type of task
+
+
+
+
+

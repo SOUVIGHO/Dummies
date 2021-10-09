@@ -1,0 +1,7 @@
+User Story 1 :: UI should show current date ,dd-mm-yyyy Day of the week Date column , Time window
+User Story 2 :: Can Expand the container and update container with details of task accomplished
+User Story 3 :: Can setup task
+User Story 4 :: The first col should show percentage of task completed
+User Story 5 :: dates and records should be shows in descending order
+User Stroy 6 :: Every Days record should be generated every 12 AM automatically or on app start
+

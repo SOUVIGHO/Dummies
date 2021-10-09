@@ -1,0 +1,32 @@
+FrontEnd:
+App.js
+    Header
+      title
+      tasksetup
+    content
+       react grid layout
+    tasks
+    footer
+
+BackEnd:
+
+taskmaster :{
+    taskname
+    status:
+}
+
+task{
+    taskid
+    start
+    end 
+    status
+}
+
+DaySummary{
+    Date
+    completion
+    [tasks]
+}
+
+
+
